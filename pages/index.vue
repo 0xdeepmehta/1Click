@@ -8,6 +8,8 @@
     <Demo/>
     <Pricing />
     <Testimonial/>
+    <Newsletter/>
+    <br><br><br>
     <Footer/>
   </div>
 </template>

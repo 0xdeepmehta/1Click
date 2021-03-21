@@ -1,5 +1,9 @@
 <template>
-    <section class="text-gray-400 bg-gray-900 body-font">
+    <div>
+            <h1 class="bg-gray-900 sm:text-3xl text-2xl font-medium title-font text-center text-white pt-14">How it works
+      <br class="hidden sm:block">
+    </h1>
+        <section class="text-gray-400 bg-gray-900 body-font">
     <div class="container px-5 py-24 mx-auto flex flex-wrap">
         <div class="flex relative pt-10 pb-20 sm:items-center md:w-2/3 mx-auto">
         <div class="h-full w-6 absolute inset-0 flex items-center justify-center">
@@ -73,6 +77,7 @@
         </div>
     </div>
     </section>
+    </div>
 </template>
 
 <script>
