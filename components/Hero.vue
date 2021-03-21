@@ -1,0 +1,14 @@
+<template>
+    <div>
+        <Nav/>
+        <div class="container mx-auto my-20 min-h-screen">
+            <div class="flex flex-col justify-center h-96 items-center">
+                <h1 class="text-5xl text-white font-semibold lg:px-20 md:px-12 text-center my-5">One Click & Add Dynamic Data Into Your Website .</h1>
+                <p class="text-gray-600 lg:mx-64 md:mx-12 text-center">Quickly edit data and add dynamic data into your website. No installation, no database to set up, and is completely secure. Its free :)</p>
+                <a class="inline-block bg-lightBlue uppercase text-white text-md font-semibold px-20 py-3 rounded-lg mt-10" href="#!">Try Demo</a>
+                <p class="text-gray-700 mt-4">No credit card required</p>
+            </div>
+        </div>
+    </div>
+</template>
+
