@@ -27,4 +27,9 @@ export default {};
 body {
   @apply bg-background;
 }
+.active {
+  @apply fill-current; 
+  @apply text-white; 
+  @apply cursor-pointer;
+}
 </style>
