@@ -1,5 +1,5 @@
 <template>
-  <div class="container mx-auto">
+  <div class="container mx-auto relative">
     <nav class="flex items-center justify-between text-white mt-4">
       <img src="@/assets/logo.png" alt="" />
       <div class="list-none flex space-x-4 items-center">
