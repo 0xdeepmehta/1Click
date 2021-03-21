@@ -10,7 +10,7 @@
         </svg>
         <span class="ml-3 text-xl text-gray-500">Tailblocks</span>
       </a>
-      <p class="mt-2 text-sm text-gray-500 md:text-center">Air plant banjo lyft occupy retro adaptogen indego</p>
+      <p class="mt-2 text-sm text-gray-500 md:text-center">A new platform for database solution.</p>
     </div>
       <span class="inline-flex lg:ml-auto lg:mt-0 mt-6 w-full justify-center md:justify-start md:w-auto">
         <a class="text-gray-500">

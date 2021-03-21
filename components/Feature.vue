@@ -1,8 +1,8 @@
 <template>
   <section class="text-gray-400 bg-gray-900 body-font">
   <div class="container px-5 py-24 mx-auto">
-    <h1 class="sm:text-3xl text-2xl font-medium title-font text-center text-white mb-20">Raw Denim Heirloom Man Braid
-      <br class="hidden sm:block">Selfies Wayfarers
+    <h1 class="sm:text-3xl text-2xl font-medium title-font text-center text-white mb-20">Features of OneClickDb
+      <br class="hidden sm:block">
     </h1>
     <div class="flex flex-wrap sm:-m-4 -mx-4 -mb-10 -mt-4 md:space-y-0 space-y-6">
       <div class="p-4 md:w-1/3 flex">
@@ -12,8 +12,8 @@
           </svg>
         </div>
         <div class="flex-grow pl-6">
-          <h2 class="text-white text-lg title-font font-medium mb-2">Shooting Stars</h2>
-          <p class="leading-relaxed text-base">Blue bottle crucifix vinyl post-ironic four dollar toast vegan taxidermy. Gastropub indxgo juice poutine, ramps microdosing banh mi pug VHS try-hard ugh iceland kickstarter tumblr live-edge tilde.</p>
+          <h2 class="text-white text-lg title-font font-medium mb-2">Fast Solution</h2>
+          <p class="leading-relaxed text-base">OneClickDB is a fast multi column database, with full SQLite support (same as in Android) and it's light weight and extremely fast..</p>
           <a class="mt-3 text-indigo-400 inline-flex items-center">Learn More
             <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
               <path d="M5 12h14M12 5l7 7-7 7"></path>
@@ -30,8 +30,8 @@
           </svg>
         </div>
         <div class="flex-grow pl-6">
-          <h2 class="text-white text-lg title-font font-medium mb-2">The Catalyzer</h2>
-          <p class="leading-relaxed text-base">Blue bottle crucifix vinyl post-ironic four dollar toast vegan taxidermy. Gastropub indxgo juice poutine, ramps microdosing banh mi pug VHS try-hard ugh iceland kickstarter tumblr live-edge tilde.</p>
+          <h2 class="text-white text-lg title-font font-medium mb-2">Effective Solution</h2>
+          <p class="leading-relaxed text-base">"One Click" and "DB Browser/Explorer" based on SQLite 3.x has been developed for those who are searching for a fast.</p>
           <a class="mt-3 text-indigo-400 inline-flex items-center">Learn More
             <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
               <path d="M5 12h14M12 5l7 7-7 7"></path>
@@ -47,8 +47,8 @@
           </svg>
         </div>
         <div class="flex-grow pl-6">
-          <h2 class="text-white text-lg title-font font-medium mb-2">Neptune</h2>
-          <p class="leading-relaxed text-base">Blue bottle crucifix vinyl post-ironic four dollar toast vegan taxidermy. Gastropub indxgo juice poutine, ramps microdosing banh mi pug VHS try-hard ugh iceland kickstarter tumblr live-edge tilde.</p>
+          <h2 class="text-white text-lg title-font font-medium mb-2">Huge Support</h2>
+          <p class="leading-relaxed text-base">If you use MySQL, this is the application for you. With certain functions, especially when using a large database.</p>
           <a class="mt-3 text-indigo-400 inline-flex items-center">Learn More
             <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
               <path d="M5 12h14M12 5l7 7-7 7"></path>

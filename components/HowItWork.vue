@@ -13,8 +13,8 @@
             </svg>
             </div>
             <div class="flex-grow sm:pl-6 mt-6 sm:mt-0">
-            <h2 class="font-medium title-font text-white mb-1 text-xl">Shooting Stars</h2>
-            <p class="leading-relaxed">VHS cornhole pop-up, try-hard 8-bit iceland helvetica. Kinfolk bespoke try-hard cliche palo santo offal.</p>
+            <h2 class="font-medium title-font text-white mb-1 text-xl">SAfety First</h2>
+            <p class="leading-relaxed">One Click Db is built using modern unbreakable technology.</p>
             </div>
         </div>
         </div>
@@ -30,8 +30,8 @@
             </svg>
             </div>
             <div class="flex-grow sm:pl-6 mt-6 sm:mt-0">
-            <h2 class="font-medium title-font text-white mb-1 text-xl">The Catalyzer</h2>
-            <p class="leading-relaxed">VHS cornhole pop-up, try-hard 8-bit iceland helvetica. Kinfolk bespoke try-hard cliche palo santo offal.</p>
+            <h2 class="font-medium title-font text-white mb-1 text-xl">Fastest</h2>
+            <p class="leading-relaxed">One Click Db is literally one of the fastest solution for quick database.</p>
             </div>
         </div>
         </div>
@@ -48,8 +48,8 @@
             </svg>
             </div>
             <div class="flex-grow sm:pl-6 mt-6 sm:mt-0">
-            <h2 class="font-medium title-font text-white mb-1 text-xl">The 400 Blows</h2>
-            <p class="leading-relaxed">VHS cornhole pop-up, try-hard 8-bit iceland helvetica. Kinfolk bespoke try-hard cliche palo santo offal.</p>
+            <h2 class="font-medium title-font text-white mb-1 text-xl">Effective</h2>
+            <p class="leading-relaxed">It's super effective too as it already helped million of users..</p>
             </div>
         </div>
         </div>
@@ -66,8 +66,8 @@
             </svg>
             </div>
             <div class="flex-grow sm:pl-6 mt-6 sm:mt-0">
-            <h2 class="font-medium title-font text-white mb-1 text-xl">Neptune</h2>
-            <p class="leading-relaxed">VHS cornhole pop-up, try-hard 8-bit iceland helvetica. Kinfolk bespoke try-hard cliche palo santo offal.</p>
+            <h2 class="font-medium title-font text-white mb-1 text-xl">Support</h2>
+            <p class="leading-relaxed">WE here provide full support for every buisness need.</p>
             </div>
         </div>
         </div>
