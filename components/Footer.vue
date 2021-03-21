@@ -2,7 +2,7 @@
 
 <footer class="text-gray-400 bg-gray-900 body-font">
   <div class="border-t border-indigo-500">
-    <div class="container px-5 py-8 flex flex-wrap mx-auto items-center">
+    <div class="container px-5 py-8 flex flex-wrap justify-between mx-auto items-center">
     <div class="w-64 flex-shrink-0 md:mx-0 mx-auto text-center md:text-left">
       <a class="flex title-font font-medium items-center md:justify-start justify-center text-white">
         <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-10 h-10 text-white p-2 bg-indigo-500 rounded-full" viewBox="0 0 24 24">
