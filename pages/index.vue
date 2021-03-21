@@ -6,6 +6,11 @@
     
     <Demo/>
     <Pricing />
+
+    <HowItWork/>
+    <Feature/>
+    <Testimonial/>
+    <Footer/>
   </div>
 </template>
 
