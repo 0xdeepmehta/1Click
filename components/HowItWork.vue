@@ -1,10 +1,9 @@
 <template>
     <div>
-            <h1 class="bg-gray-900 sm:text-3xl text-2xl font-medium title-font text-center text-white pt-14">How it works
-      <br class="hidden sm:block">
-    </h1>
+        
+        <h1 class="bg-gray-900 md:text-4xl sm:text-3xl text-white font-semibold lg:px-20 md:px-12 text-center pt-14 leading-normal">HOW IT WORKS ?</h1>
         <section class="text-gray-400 bg-gray-900 body-font">
-    <div class="container px-5 py-24 mx-auto flex flex-wrap">
+            <div class="container px-5 py-24 mx-auto flex flex-wrap">
         <div class="flex relative pt-10 pb-20 sm:items-center md:w-2/3 mx-auto">
         <div class="h-full w-6 absolute inset-0 flex items-center justify-center">
             <div class="h-full w-1 bg-gray-800 pointer-events-none"></div>
@@ -17,8 +16,8 @@
             </svg>
             </div>
             <div class="flex-grow sm:pl-6 mt-6 sm:mt-0">
-            <h2 class="font-medium title-font text-white mb-1 text-xl">SAfety First</h2>
-            <p class="leading-relaxed">One Click Db is built using modern unbreakable technology.</p>
+            <h2 class="font-medium title-font text-white mb-1 text-xl">Sign Up</h2>
+            <p class="leading-relaxed">Sign up and create your free trail account now </p>
             </div>
         </div>
         </div>
@@ -34,8 +33,8 @@
             </svg>
             </div>
             <div class="flex-grow sm:pl-6 mt-6 sm:mt-0">
-            <h2 class="font-medium title-font text-white mb-1 text-xl">Fastest</h2>
-            <p class="leading-relaxed">One Click Db is literally one of the fastest solution for quick database.</p>
+            <h2 class="font-medium title-font text-white mb-1 text-xl">Get Private Secure Token</h2>
+            <p class="leading-relaxed">Get your private secure token that is used for access your data securly from anywhere 🌎 </p>
             </div>
         </div>
         </div>
@@ -52,8 +51,8 @@
             </svg>
             </div>
             <div class="flex-grow sm:pl-6 mt-6 sm:mt-0">
-            <h2 class="font-medium title-font text-white mb-1 text-xl">Effective</h2>
-            <p class="leading-relaxed">It's super effective too as it already helped million of users..</p>
+            <h2 class="font-medium title-font text-white mb-1 text-xl">Create your database </h2>
+            <p class="leading-relaxed">Create a simple or complex database with an easy-to-use point and click interface.</p>
             </div>
         </div>
         </div>
@@ -70,8 +69,8 @@
             </svg>
             </div>
             <div class="flex-grow sm:pl-6 mt-6 sm:mt-0">
-            <h2 class="font-medium title-font text-white mb-1 text-xl">Support</h2>
-            <p class="leading-relaxed">WE here provide full support for every buisness need.</p>
+            <h2 class="font-medium title-font text-white mb-1 text-xl">Get Secure and Unique API Endpoint 🔥</h2>
+            <p class="leading-relaxed">Use your oneclickdb.js in your website to turn it from static into Dynamic one :)</p>
             </div>
         </div>
         </div>

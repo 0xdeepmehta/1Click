@@ -1,7 +1,9 @@
 <template>
     <section class="text-gray-400 bg-gray-900 body-font">
     <div class="container px-5 py-24 mx-auto">
-        <h1 class="text-3xl font-medium title-font text-white mb-12 text-center">Testimonials</h1>
+        <!-- <h1 class="text-3xl font-medium title-font text-white mb-12 text-center">Testimonials</h1> -->
+        <h1 class="md:text-4xl sm:text-3xl text-white font-semibold lg:px-20 md:px-12 text-center mb-20 leading-normal">TESTIMONIALS</h1>
+
         <div class="flex flex-wrap -m-4">
         <div class="p-4 md:w-1/2 w-full">
             <div class="h-full bg-gray-800 bg-opacity-40 p-8 rounded">
@@ -13,7 +15,7 @@
                 <img alt="testimonial" src="https://dummyimage.com/106x106" class="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center">
                 <span class="flex-grow flex flex-col pl-4">
                 <span class="title-font font-medium text-white">Holden Caulfield</span>
-                <span class="text-gray-500 text-sm">UI DEVELOPER</span>
+                <span class="text-gray-500 text-sm">Tech Blogger</span>
                 </span>
             </a>
             </div>
@@ -28,7 +30,7 @@
                 <img alt="testimonial" src="https://dummyimage.com/107x107" class="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center">
                 <span class="flex-grow flex flex-col pl-4">
                 <span class="title-font font-medium text-white">Alper Kamu</span>
-                <span class="text-gray-500 text-sm">DESIGNER</span>
+                <span class="text-gray-500 text-sm">Indie Hacker</span>
                 </span>
             </a>
             </div>

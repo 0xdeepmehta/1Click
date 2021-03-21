@@ -1,10 +1,8 @@
 <template>
   <section class="text-gray-400 bg-gray-900 body-font">
   <div class="container px-5 py-24 mx-auto">
-    <h1 class="sm:text-3xl text-2xl font-medium title-font text-center text-white mb-20">Features of OneClickDb
-      <br class="hidden sm:block">
-    </h1>
-    <div class="flex flex-wrap sm:-m-4 -mx-4 -mb-10 -mt-4 md:space-y-0 space-y-6">
+    <h1 class="bg-gray-900 my-16 md:text-4xl sm:text-3xl text-white font-semibold lg:px-20 md:px-12 text-center mb-20 leading-normal">FEATURES OF ONECLICK DB</h1>
+    <div class="flex flex-wrap my-16 md:space-y-0 space-y-6">
       <div class="p-4 md:w-1/3 flex">
         <div class="w-12 h-12 inline-flex items-center justify-center rounded-full bg-gray-800 text-indigo-400 mb-4 flex-shrink-0">
           <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-6 h-6" viewBox="0 0 24 24">

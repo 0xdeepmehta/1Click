@@ -1,8 +1,9 @@
 <template>
   <div class="container mx-auto">
     <div
-      class="border-2 border-solid border-gray-700 rounded-lg p-4 py-20 lg:px-32 md:px-12"
+      class="border-2 border-solid border-gray-700 rounded-lg p-4 py-12 my-40 lg:px-32 md:px-12"
     >
+        <h1 class="md:text-4xl sm:text-3xl text-white font-semibold lg:px-20 md:px-12 text-center mb-20 leading-normal">DEMO TIME 🔥</h1>
       <div class="flex justify-between">
         <div></div>
         <div class="inline-block lg:space-x-6 sm:space-x-2">
@@ -18,7 +19,6 @@
             v-clipboard="() => root_url + token + '/'"
             v-tooltip="{
               content: 'Copied succefully',
-              show: is_saved,
               trigger: 'click',
             }"
             class="inline-block bg-white uppercase text-gray-700 text-sm font-semibold px-4 py-2 rounded-lg"
@@ -56,7 +56,7 @@
                   <a
                 v-bind:class="{ active: is_saved }"
                 target="_blank"
-                :href="root_url + token + '/' + row.key"
+                :href="root_url + token + '/' + '?keys=' + row.key"
                 class="inline-block cursor-not-allowed focus:outline-none"
               >
                 <svg
@@ -73,10 +73,9 @@
               <button
                 v-tooltip="{
                   content: 'Copied succefully',
-                  show: is_saved,
                   trigger: 'click',
                 }"
-                v-clipboard="() => root_url + token + '/' + row.key"
+                v-clipboard="() => root_url + token + '/' + '?keys='+ row.key"
                 class="focus:outline-none"
               >
                 <img
